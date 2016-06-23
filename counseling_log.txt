@@ -1,14 +1,14 @@
 
 
- // 2016.06.08 shapely_top_callout() ¼öÁ¤!! is_category() Ãß°¡  /extras.php
+ // 2016.06.08 shapely_top_callout() ìˆ˜ì •!! is_category() ì¶”ê°€  /extras.php
 
 
- // 2016.06.13 shapely_top_callout() ¼öÁ¤!! is_singular('counseling') Ãß°¡  /extras.php
- // 2016.06.13 post_type 'counseling' Ãß°¡  /extras.php
+ // 2016.06.13 shapely_top_callout() ìˆ˜ì •!! is_singular('counseling') ì¶”ê°€  /extras.php
+ // 2016.06.13 post_type 'counseling' ì¶”ê°€  /extras.php
  // 2016.06.13 shapely_posted_on --> customize  /extras.php
  // 2016.06.13 shapely_cb_comment--> customize  /extras.php
- // 2016.06.13 wp_list_comments callback ÇÔ¼ö Jay_cb_comment·Î º¯°æ  /comments.php
+ // 2016.06.13 wp_list_comments callback í•¨ìˆ˜ Jay_cb_commentë¡œ ë³€ê²½  /comments.php
 
 
- // 2016.06.14 Jay_recent_thoughts À§Á¬ shapely_widgets_init()¿¡ Ãß°¡ /functions.php
- // 2016.06.14 widget-jay.php ÆÄÀÏ ÀÛ¼º
+ // 2016.06.14 Jay_recent_thoughts ìœ„ì ¯ shapely_widgets_init()ì— ì¶”ê°€ /functions.php
+ // 2016.06.14 widget-jay.php íŒŒì¼ ì‘ì„±
