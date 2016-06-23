@@ -1,0 +1,14 @@
+
+
+ // 2016.06.08 shapely_top_callout() 수정!! is_category() 추가  /extras.php
+
+
+ // 2016.06.13 shapely_top_callout() 수정!! is_singular('counseling') 추가  /extras.php
+ // 2016.06.13 post_type 'counseling' 추가  /extras.php
+ // 2016.06.13 shapely_posted_on --> customize  /extras.php
+ // 2016.06.13 shapely_cb_comment--> customize  /extras.php
+ // 2016.06.13 wp_list_comments callback 함수 Jay_cb_comment로 변경  /comments.php
+
+
+ // 2016.06.14 Jay_recent_thoughts 위젯 shapely_widgets_init()에 추가 /functions.php
+ // 2016.06.14 widget-jay.php 파일 작성
